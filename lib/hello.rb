@@ -1,4 +1,4 @@
-require Greeter
+require greeter
 
 # default is world
 name = ARGV.first || "World"
